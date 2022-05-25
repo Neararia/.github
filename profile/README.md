@@ -11,7 +11,7 @@ Neararia and all underlying projects aim to maintain the spirit of decentralizat
 
 
 
- `prod` is the main & starting branch and where code used in production is found. New branches must branch from prod.
+ `main` is the starting branch and where code used in production is found. New branches must branch from prod.
  
  `staging` is the branch where open testing may be pushed. In effect, staging may act as a test-net for new features.
  
